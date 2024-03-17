@@ -14,7 +14,7 @@
 ## 情緒分析結果  
 可以看到隨著2022年9月疫情政策開始逐步調整鬆綁日本旅遊板上正面以及負面情緒的文章數開始不斷提升  
 且正面情緒的文章數量遠高於負面情緒  
-![圖片失效](result\output.png)  
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/output.png)
 
 ## 情緒代表字  
 ![圖片失效](result\情緒代表字.png)  
