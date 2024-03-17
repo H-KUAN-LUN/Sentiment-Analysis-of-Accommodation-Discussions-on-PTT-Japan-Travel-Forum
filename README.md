@@ -16,14 +16,20 @@
 且正面情緒的文章數量遠高於負面情緒  
 ![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/output.png)
 
-## 情緒代表字  
-![圖片失效](result\情緒代表字.png)  
+## 情緒代表字 
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/情緒代表字.png)  
 ## 情緒分數趨勢折線圖
-![圖片失效](result\情緒分數趨勢折線圖.png)
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/情緒分數趨勢折線圖.png)
 ## 文字雲
-![圖片失效](result\文字雲.png)  
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/文字雲.png)
 ## 京都討論聲量高 因此查看一下關於京都的正向情緒字詞
-![圖片失效](result\京都正向情緒字.png)
-## 舒適看起來是用來形容住宿環境 查看含有京都以及舒適的文章原文  
-![圖片失效](result\京都舒適原文.png)
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/京都正向情緒字.png)  
+舒適看起來是用來形容住宿環境
+## 查看含有京都以及舒適的文章原文  
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/京都舒適原文.png)  
+確實是在討論京都住起來舒適的飯店  
+## 找出所有情緒分析正面 且地點在京都的舒適飯店文章
+![method](https://raw.githubusercontent.com/HUAN-LUN/Sentiment-Analysis-of-Accommodation-Discussions-on-PTT-Japan-Travel-Forum/main/result/京都舒適飯店.png)  
+確實是在討論京都住起來舒適的飯店  
+
 
